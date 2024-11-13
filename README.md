@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-# teched2024-AD181
-SAPinsider workshop
-=======
+# Info
+
+SAPinsider workshop `teched2024-AD181`
+
 # Getting Started
 
 Welcome to your new project.
