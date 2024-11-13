@@ -1,0 +1,6 @@
+ID;createdAt;createdBy;modifiedAt;modifiedBy;name;email;customerNumber;totalPurchaseValue;totalRewardPoints;totalRedeemedRewardPoints
+13f3f9d3-6877-4d61-818e-853f77dadfab;2024-11-12T16:21:50+0100;admin;2024-11-12T16:21:50+0100;admin;John Doe;john.doe@example.com;1200547;9500;475;474.5
+7b0a9453-77cd-4673-bfd2-91e75e01822e;2024-11-12T16:21:50+0100;admin;2024-11-12T16:21:50+0100;admin;Jane Smith;jane.smith@example.com;1200548;8500;425;424.5
+0f8b4abd-994f-4124-907e-f26871ecef79;2024-11-12T16:21:50+0100;admin;2024-11-12T16:21:50+0100;admin;Alice Johnson;alice.johnson@example.com;1200549;7500;375;374.5
+b528d77b-0145-4d7b-b9ae-503e4f05dbb0;2024-11-12T16:21:50+0100;admin;2024-11-12T16:21:50+0100;admin;Bob Brown;bob.brown@example.com;1200550;6500;325;324.5
+7df81ad6-dfb4-4cb2-b0a3-30de19f4bfe1;2024-11-12T16:21:50+0100;admin;2024-11-12T16:21:50+0100;admin;Charlie Davis;charlie.davis@example.com;1200551;5500;275;274.5
